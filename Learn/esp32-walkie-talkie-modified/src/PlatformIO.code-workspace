@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "first try",
+			"path": "../../first try"
+		},
+		{
+			"name": "esp32-walkie-talkie-main",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
